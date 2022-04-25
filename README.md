@@ -12,7 +12,7 @@ Baised on another project:
 sudo apt install android-sdk-platform-tools android-sdk-build-tools
 ```
 
-1. generate keystore
+1. generate keystore (do only once):
 ```
 keytool -genkey -v -keystore my-release-key.keystore -alias alias_name -keyalg RSA -keysize 2048 -validity 10000
 ```
