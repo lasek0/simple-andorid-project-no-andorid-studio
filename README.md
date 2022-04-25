@@ -33,3 +33,12 @@ make
 ```
 
 
+
+
+To test apk on Your andorid phone, You can copy app.apk file into phone memory (via usb, or via SDcard).
+To install it successfully, You need to enable third party apps in security settings, and disable Play Protect (or just allow that single instalation when promped)
+
+In case when You reinstall apk and You have an error "apk not installed" please uninstall this apk in application settings first, then try again.
+
+
+tested on real andorid phone: Oppo A15s (Andorid 10)
