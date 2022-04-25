@@ -10,3 +10,6 @@ use password 123456, You can change password in Makefile
 
 Baised on another project:
 `https://github.com/jbendtsen/tiny-android-template`
+
+
+finished build apk is located in: `./build/app.apk`
